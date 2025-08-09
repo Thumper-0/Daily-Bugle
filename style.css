@@ -1,0 +1,62 @@
+.daily-bugle {
+    margin: auto;
+    width: 1300px;
+    padding: 50px;
+    background-color: #f5f8fd;
+}
+
+.header {
+    background-image: url(img/pic0.PNG);
+    height: 230px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.subheader {
+    padding-top: 100px;
+    background-image: url(img/pic3.PNG);
+    height: 230px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.content {
+    padding: 50px;
+}
+
+.main-poster {
+    float: right;
+    height: 1000px;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.content-img-1 {
+    height: 200px;
+    padding-left: 150px;
+}
+
+.content-img-2 {
+    width: 400px;
+    padding-left: 30px;
+}
+
+.other-info {
+    text-align: center;
+    background-color: #f54c39;
+    color: white;
+    font-size: 40px;
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
